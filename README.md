@@ -21,4 +21,8 @@ Eclipse
    5. Copy the aidl file inside the android.content.pm package
    6. Select class where totalCacheSize is then Source > Organize Imports
    
-   
+How to add  Add android-processes-1.0.9.aar file
+   1. Add a .aar file in my libs folder.
+   2. Use "New Module" option under File menu.
+   3. Import the .aar file.
+   4. Build gradle and compile the project.
